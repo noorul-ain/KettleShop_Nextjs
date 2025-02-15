@@ -1,8 +1,8 @@
 import React from 'react'
 import Banner from './components/Banner'
-import K2 from './components/K2'
+import About2 from './components/About2'
 import ProductCards from './components/ProductCards'
-import K4 from './components/K4'
+import Timmer from './components/Timmer'
 import Choice from './components/Choice'
 import Specifications from './components/Specifications'
 import Testimonials from './components/Testimonials'
@@ -16,9 +16,9 @@ const page = () => {
     <>
     <div className='bg-gradient-to-t from-[#d9c7b8] to-[#eae5de]'>
     <Banner/>
-    <K2/>
+    <About2/>
     <ProductCards/>
-    <K4/>
+    <Timmer/>
     <Choice/>
     <Specifications/>
     <Testimonials/>

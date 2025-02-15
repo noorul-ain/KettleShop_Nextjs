@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { MicroscopeIcon as Magnifier } from "lucide-react";
 
-export default function K2() {
+export default function About2() {
   return (
     <div className="bg-white min-h-screen">
       <div className="container mx-auto px-4 py-8 md:py-12">

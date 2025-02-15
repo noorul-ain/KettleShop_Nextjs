@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 
-export default function K4() {
+export default function Timmer() {
   // Set the target date for the countdown
   const targetDate = new Date().getTime() + 5 * 24 * 60 * 60 * 1000; // 5 days from now
 
